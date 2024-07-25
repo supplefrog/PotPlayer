@@ -1,0 +1,2 @@
+# PotPlayer
+Config for PotPlayer
